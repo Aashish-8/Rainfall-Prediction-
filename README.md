@@ -1,3 +1,5 @@
+Preview - https://euwkwzdz8sodqwb6b8gzlh.streamlit.app/
+
 # 🌧️ Rainfall Prediction Web App
 
 This is a Machine Learning-based web application that predicts **the possibility of rainfall** using a trained ML model. The app is built with **Python**, **Flask**, and a clean **HTML frontend**, powered by a dataset and pre-trained model saved as a `.pkl` file.
@@ -122,9 +124,4 @@ If you have ideas for improvements or spot any bugs, feel free to open an issue 
 
 ```
 
----
 
-Want me to:
-- Help you deploy this now?
-- Add a badge (like Python version, license, etc.)?
-- Or even create the repo on GitHub for you with a sample structure?
